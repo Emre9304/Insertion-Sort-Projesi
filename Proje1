@@ -1,0 +1,14 @@
+[22,27,16,2,18,6] -> Insertion Sort
+1.adım tüm elemanlar taranır ve en küçük olan 0.indexe yazılır
+2.adım 0.index hariç tüm elemanlar taranır ve en küçük olan 1.indexe yazılır
+3.adım 1.index hariç tüm elemanlar taranır ve en küçük olan 2.indexe yazılır
+4.adım 2.index hariç tüm elemanlar taranır ve en küçük olan 3.indexe yazılır
+5.adım 3.index hariç tüm elemanlar taranır ve en küçük olan 4.indexe yazılır
+6.adım kalan son eleman da 5.indexe yazılır
+O(n^2)
+Average case kapsamına girer
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort
+1.adım tüm elemanlar taranır ve en küçük olan 0.indexe yazılır
+2.adım 0.index hariç tüm elemanlar taranır ve en küçük olan 1.indexe yazılır
+3.adım 1.index hariç tüm elemanlar taranır ve en küçük olan 2.indexe yazılır
+4.adım 2.index hariç tüm elemanlar taranır ve en küçük olan 3.indexe yazılır
